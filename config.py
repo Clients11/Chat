@@ -12,11 +12,11 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 STRING1 = getenv("STRING_SESSION", None)
 MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = int(getenv("OWNER_ID", "7745014754"))
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/surajislam/KING-CHATBOT")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Clients11/Chat")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-SUPPORT_GRP = "MS_Music_official"
-UPDATE_CHNL = "ABOUT_NIGHT_SQUAD"
-OWNER_USERNAME = "II_SB_SIME_II"
+SUPPORT_GRP = "stranger_support"
+UPDATE_CHNL = "Ace_networkop"
+OWNER_USERNAME = "MR_CUTE_X"
 # GIT TOKEN ( if your edited repo is private)
 GIT_TOKEN = getenv("GIT_TOKEN", "")
     
